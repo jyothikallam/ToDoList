@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ToDoList
 //
-//  Created by Chanikya on 7/08/2016.
+//  Created by Jyothi on 7/08/2016.
 //  Copyright © 2016 joe. All rights reserved.
 //
 
